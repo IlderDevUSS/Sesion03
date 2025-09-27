@@ -1,0 +1,15 @@
+/venv
+/env_guevara
+
+
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+
+
+db.sqlite3 
+
+README.md
+.DS_Store
